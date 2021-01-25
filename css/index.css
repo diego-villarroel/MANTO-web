@@ -1,0 +1,50 @@
+/* body {
+  font-family: 'Noto Sans Jp', sans-serif !important;
+} */
+
+p {
+  margin-top: 25px;
+}
+
+#nav-page{
+  list-style: none;
+}
+
+#title {
+  color: #000;
+  font-family: 'Noto Sans Jp', sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 40px;
+  letter-spacing: 3px;
+}
+
+#text-one {
+  color: #000;
+  font-family: 'Noto Sans Jp', sans-serif;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 25px;
+}
+
+#text-two {
+  color: #000;
+  font-family: 'Noto Sans Jp', sans-serif;
+  font-size: 13px;
+  line-height: 25px;
+  text-align: center;
+}
+
+#box-one {
+  margin: 60px 0 60px 0;
+}
+
+#box-two {
+  margin: 100px 0 60px 0;
+}
+
+#color-box {
+  margin: 0;
+  padding: 0 290px 0 290px;
+  background-color: #EDE8E6;
+}
